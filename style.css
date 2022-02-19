@@ -1,1 +1,14 @@
-/*  Add your styling here */
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+div.navbar {
+  padding: 6px;
+}
+
+ul.navbar {
+  background-color: #ca959e;
+  display: inline-flex;
+}
